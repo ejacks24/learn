@@ -1,1 +1,8 @@
-
+body {
+    color: white;
+    text-align: center;
+    background-color:#7851a9;
+}
+img {
+    width: 25%;
+}
